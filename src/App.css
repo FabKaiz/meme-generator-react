@@ -47,3 +47,8 @@
   border: none;
   cursor: pointer;
 }
+
+/* meme image */
+.meme--image {
+  max-width: 100%;
+}
