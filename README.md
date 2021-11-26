@@ -1,6 +1,6 @@
 # Meme generator using React and a meme API
 
-You can [Try it here 🙂](https://fabkaiz.github.io/meme-generator-react/).
+You can [Try it here 🙂](https://fabkaiz.github.io/meme-generator-react/).  
 Tips: Use a screenshot to save the picture if you want to, have fun!
 
 ## Available Scripts
